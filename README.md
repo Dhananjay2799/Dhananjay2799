@@ -6,7 +6,7 @@
 
 I build software that connects useful interfaces, reliable APIs, and measurable AI experiments.
 
-[Explore FinCite](https://github.com/Dhananjay2799/fincite) · [Shakti Foods](https://www.shakti-foods.com)
+[Explore FinCite](https://github.com/Dhananjay2799/fincite) · [Shakti Foods](https://www.shakti-foods.com) · [AgentShield](https://github.com/Dhananjay2799/agentshield)
 
 </div>
 
