@@ -1,6 +1,7 @@
 <div align="center">
 
 # Dhananjay Patel
+Dhananjayp359@gmail.com
 
 ### Backend Engineering · Applied AI · Full-Stack Development
 
