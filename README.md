@@ -3,7 +3,7 @@
 # Dhananjay Patel
 Dhananjayp359@gmail.com
 
-### Backend Engineering · Applied AI · Full-Stack Development(https://dhananjaypatel.vercel.app)
+### Backend Engineering · Applied AI · Full-Stack Development
 
 I build software that connects useful interfaces, reliable APIs, and measurable AI experiments.
 
