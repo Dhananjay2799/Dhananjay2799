@@ -7,7 +7,7 @@ Dhananjayp359@gmail.com
 
 I build software that connects useful interfaces, reliable APIs, and measurable AI experiments.
 
-[Explore FinCite](https://github.com/Dhananjay2799/fincite) · [Shakti Foods](https://www.shakti-foods.com) · [AgentShield](https://github.com/Dhananjay2799/agentshield)
+[Explore FinCite](https://fincite-rouge.vercel.app/) · [Shakti Foods](https://www.shakti-foods.com) · [AgentShield](https://github.com/Dhananjay2799/agentshield)
 
 </div>
 
@@ -21,7 +21,7 @@ I care about clear architecture, reproducible experiments, and understanding whe
 
 ## Featured work
 
-### [FinCite — Consumer Finance RAG + Fine-Tuning](https://github.com/Dhananjay2799/fincite)
+### [FinCite — Consumer Finance RAG + Fine-Tuning](https://fincite-rouge.vercel.app/)
 
 A working prototype that answers consumer-finance questions using retrieved CFPB guidance and a locally running language model.
 
